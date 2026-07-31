@@ -5,8 +5,8 @@
 %global crate dbus
 
 Name:           rust-%{crate}
-Version:        0.6.5
-Release:        2%{?dist}
+Version:        0.9.12
+Release:        1%{?dist}
 Summary:        Bindings to D-Bus
 
 # Upstream license specification: Apache-2.0/MIT
